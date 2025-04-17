@@ -17,11 +17,17 @@
 <p>1.Escolhemos o facebook.</p>
 <p>2.Escolhemos a opção "Traditional login page".</p>
 <p>3.Escolhemos a opção "Localhost".</p>
-<p>3.1.No meu caso, utilizei a opção "Cloudflared", pois o localhost não estava funcionando.</p>
 <p>4.Acessando o link pelo navegador, temos uma página do facebook para preencher informações.</p>
 <p>6.Selecione a segunda opção: Website Attack Vectors</p>
 <p>7.Selecione a terceira opção: Credential Harvester Attack Method</p>
 <p>8.Selecione a opção: Site Cloner.</p>
 
 <h1></h1>
-<h3>Funcionamento</h3>
+<h3>Funcionamento:</h3>
+<p>Ao acessar o site, teremos algo muito similar ao site original.</p>
+<p>Ao preencher as informações e clicar no botão, as credenciais de acesso serão exibidas no terminal do Kali.</p>
+<img src="https://github.com/user-attachments/assets/7b2be828-69a8-4567-b8fe-f97ed3d53c01">
+<img src="https://github.com/user-attachments/assets/c51e06fe-847b-4341-9ecf-5d11885891b3">
+
+
+
